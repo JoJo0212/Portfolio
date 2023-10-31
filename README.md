@@ -17,15 +17,18 @@ Here are 4 main points that I want to learn from the course:
 
 # Portfolio
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment 1: [Assignment1](visualizing-government-debt)
 draft
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 2: [Assignment2](visualizing-government-debt)
+draft
+
+## Assignment 3: [Assignment3](critique-by-design)
 draft
 
 ## Final project
 draft
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
 
