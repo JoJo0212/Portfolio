@@ -5,7 +5,7 @@ This is Selina Tseng's public portfolio for Telling Stories with Data at CMU!
 # About me
 My name is Selina (she/her/hers). I'm pursuing a Master's degree in Information Systems Management at Carnegie Mellon University and have earned an undergraduate degree in Business Management at the University of Queensland. I have accumulated valuable internship experiences across various domains, including data analysis, business development, and market research, and I hope to pursue a career as a Business Analyst or Product Manager.
 
-[Here is my LinkedIn profile] (www.linkedin.com/in/selina-tseng)
+Here is my LinkedIn profile: www.linkedin.com/in/selina-tseng 
 
 
 # What I hope to learn
