@@ -45,6 +45,11 @@ Mastering data storytelling techniques can empower my desired career path as a b
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+## Explanation
+Bar charts are ideal for comparing values across categories in a single snapshot, while line charts excel at revealing trends and changes over time. However, when dealing with the extensive government debt data encompassing more than 30 countries and multiple years, these traditional charts may fall short of presenting a comprehensive overview. The first line chart, for instance, can only offer a one-year perspective. In contrast, heat maps utilize color coding to provide a high-level view of data distribution, allowing users to quickly grasp overarching trends and patterns. Treemaps, on the other hand, are proficient at illustrating hierarchical data relationships and revealing the composition of parts within a whole. When visualizing government debt as a percentage of GDP across diverse countries and years, the Heat Map efficiently captures the big picture of data distribution, complemented by the Treemap for a deeper exploration of hierarchical relationships and the components contributing to the debt, all while ensuring clarity through manual conversion of raw values into percentages. To enhance readability, color schemes are employed to represent similar percentages with similar colors.
+
+The choice of the Treemap stems from its effectiveness in portraying the data's evolution over time, enabling viewers to discern percentage variations across countries for each year. Additionally, the manual conversion of raw values into percentages serves to emphasize that the figures precisely represent the debt-to-GDP ratio, ensuring a clearer understanding for the audience. The use of consistent color coding for similar percentages further enhances data interpretation.
+
 ## Assignment 1:
 TBA...
 
