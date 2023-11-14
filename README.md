@@ -51,14 +51,8 @@ Bar charts are ideal for comparing values across categories in a single snapshot
 
 The choice of the Treemap stems from its effectiveness in portraying the data's evolution over time, enabling viewers to discern percentage variations across countries for each year. Additionally, the manual conversion of raw values into percentages serves to emphasize that the figures precisely represent the debt-to-GDP ratio, ensuring a clearer understanding for the audience. The use of consistent color coding for similar percentages further enhances data interpretation.
 
-## Assignment 1:
-TBA...
-
-## Assignment 2:
-TBA...
-
-## Assignment 3:
-TBA...
+## Assignment 3&4:
+[Assignment 3&4](https://jojo0212.github.io/Assignment-3-4-Critique-by-Design-with-Tableau/)https://jojo0212.github.io/Assignment-3-4-Critique-by-Design-with-Tableau/
 
 ## Final project
 TBA...
