@@ -54,5 +54,4 @@ The choice of the Treemap stems from its effectiveness in portraying the data's 
 ## Assignment 3&4:
 [Assignment 3&4](https://jojo0212.github.io/Assignment-3-4-Critique-by-Design-with-Tableau/)
 ## Final project
-TBA...
-
+[Final Project Part1](https://jojo0212.github.io/Final-Project-Part1/)
