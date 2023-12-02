@@ -18,7 +18,7 @@ Here are 4 main points that I want to learn from the course:
 
 Mastering data storytelling techniques can empower my desired career path as a business analyst or product manager to make data-driven decisions, communicate effectively with stakeholders, engage audiences, prioritize tasks, and solve complex problems. It can enhance my ability to present data insights persuasively, making the work more impactful and facilitating successful projects and product development.
 
-# Portfolio
+# Assignments & Project
 
 ## Assignment 2:
 [Tableau Practice](https://jojo0212.github.io/Tableau-Practice/)
