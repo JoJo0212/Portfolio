@@ -29,3 +29,5 @@ Mastering data storytelling techniques can empower my desired career path as a b
 [Final Project Part1](https://jojo0212.github.io/Final-Project-Part1/)
 
 [Final Project Part2](https://jojo0212.github.io/Final-Project-Part2/)
+
+[Final Project Part3](https://jojo0212.github.io/Final-Project-Part3/)
